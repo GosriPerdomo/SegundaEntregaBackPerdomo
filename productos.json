@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1",
+    "name": "Producto 1",
+    "description": "Descripción del producto 1",
+    "price": 10
+  },
+  {
+    "id": "2",
+    "name": "Producto 2",
+    "description": "Descripción del producto 2",
+    "price": 20
+  },
+  {
+    "id": "6c9e7865-86cb-4c29-87f7-2c13651ca897",
+    "name": "casa",
+    "description": "test",
+    "price": 2
+  },
+  {
+    "id": "0f03b96f-6524-4eb2-8a40-e4f8ac329870",
+    "name": "casa",
+    "description": "2",
+    "price": 2
+  },
+  {
+    "name": "casa",
+    "description": "2",
+    "price": 2,
+    "id": "c098973e-0098-4e06-a417-7bb809d02d75"
+  },
+  {
+    "name": "casa",
+    "description": "2",
+    "price": 2,
+    "id": "b9948c63-97bb-4d3e-9669-c91b804fb2fa"
+  },
+  {
+    "name": "babababaabab",
+    "description": "4",
+    "price": 5,
+    "id": "ea65930c-cd85-4987-a183-2e518ac3d1ef"
+  },
+  {
+    "id": "a302114f-5b3e-4ce4-a509-c2862df7be6e",
+    "name": "putpostman",
+    "description": "4",
+    "price": 5
+  },
+  {
+    "name": "postpostman",
+    "description": "155",
+    "price": 50,
+    "id": "c5199196-8cd1-4029-979c-83539a5aebd7"
+  },
+  {
+    "name": "222postpostman33",
+    "description": "155",
+    "price": 50,
+    "id": "0ed0caf9-1f95-4d7c-90d8-e25860750f5f"
+  },
+  {
+    "name": "testeopostman4",
+    "description": "155",
+    "price": 50,
+    "id": "4a95e3da-5209-4212-b5a8-73b0d870f066"
+  },
+  {
+    "id": "f97cf5c0-002a-4879-babd-d08534b4d465",
+    "name": "testeosocket",
+    "description": "2",
+    "price": 2
+  },
+  {
+    "id": "50a6225d-b628-4a02-ab30-1ebf9ab29805",
+    "name": "test",
+    "description": "155",
+    "price": 156
+  },
+  {
+    "name": "web",
+    "description": "155",
+    "price": 50,
+    "id": "c0a8135d-9f6c-49b6-97c9-3cf26456b471"
+  },
+  {
+    "id": "9d572584-63e1-4911-b2fd-125d149164c4",
+    "name": "testsestestses",
+    "description": "2",
+    "price": 2
+  },
+  {
+    "name": "nosense rival",
+    "description": "33",
+    "price": 150,
+    "id": "c6601cbf-60ef-47a7-92dd-35f50d7c01fc"
+  }
+]
